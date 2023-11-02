@@ -1,0 +1,11 @@
+0 0 0 0 10kg 
+1 1 1 1 0Kg 
+2 2 2 2 0Litres 
+3 3 3 3 3Litres 
+4 4 4 4 4kg 
+5 5 5 5 5Kg 
+6 6 6 6 6Litres 
+7 7 7 7 7kg 
+8 8 8 8 8Litres 
+9 9 9 9 9kg 
+10 10 10 10 10Litres 
