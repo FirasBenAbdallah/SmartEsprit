@@ -30,12 +30,7 @@ Avant de commencer, assurez-vous d'avoir satisfait aux exigences suivantes :
 
 ## Demo
 
-[Link to the video](Demo/simplescreenrecorder-2021-12-29_13.12.22.mp4)
-
-<video width="320" height="240" controls>
-  <source src="Demo/simplescreenrecorder-2021-12-29_13.12.22.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[Download the video](Demo/simplescreenrecorder-2021-12-29_13.12.22.mp4)
 
 
 ## Contributing
