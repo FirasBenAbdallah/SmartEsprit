@@ -28,9 +28,9 @@ Avant de commencer, assurez-vous d'avoir satisfait aux exigences suivantes :
 4. **Run the Application**: `./smartesprit_w`
 
 
-## Usage
+## Demo
 
-Briefly describe how users can interact with your application, what features they should expect, and any keyboard shortcuts or commands they might need.
+[Link to the video](Demo/simplescreenrecorder-2021-12-29_13.12.22.mp4)
 
 ## Contributing
 
