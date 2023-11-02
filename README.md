@@ -30,7 +30,7 @@ Avant de commencer, assurez-vous d'avoir satisfait aux exigences suivantes :
 
 ## Demo
 
-[Download the video](Demo/simplescreenrecorder-2021-12-29_13.12.22.mp4)
+[Download the video directly](https://raw.githubusercontent.com/FirasBenAbdallah/SmartEsprit/main/Demo/simplescreenrecorder-2021-12-29_13.12.22.mp4?token=GHSAT0AAAAAACEUV35EXB2FN7FJCC5QQNQSZKDCZCQ)
 
 
 ## Contributing
