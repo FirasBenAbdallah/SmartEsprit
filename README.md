@@ -19,13 +19,13 @@ Avant de commencer, assurez-vous d'avoir satisfait aux exigences suivantes :
 
 ## Installation & Configuration
 
-1. **Clonez le dépôt**: git clone https://github.com/FirasBenAbdallah/SmartEsprit.git
+1. **Clonez le dépôt**: `git clone https://github.com/FirasBenAbdallah/SmartEsprit.git`
 
 2. **Navigate to the Directory**: cd SmartEsprit
 
 3. **Compile the Application (if required)**: `gcc -o SmartEsprit main.c pkg-config --cflags --libs gtk+-2.0`
 
-4. **Run the Application**: ./smartesprit_w
+4. **Run the Application**: `./smartesprit_w`
 
 
 ## Usage
